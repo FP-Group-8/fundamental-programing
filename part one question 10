@@ -18,6 +18,9 @@ int main() {
     cout << "Enter the minimum interest rate: ";
     cin >> minInterestRate;
 
+    cout << "Enter the maximum interest rate: ";
+    cin >> maxInterestRate;
+
     cout << "Enter the number of years: ";
     cin >> years;
 
